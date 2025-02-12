@@ -47,3 +47,32 @@ Create a simple Todo List application with the following requirements:
 ## Conclusion
 
 This test is an opportunity to showcase your technical skills and thought process. We are excited to see your approach to solving this task. Good luck!
+
+# Storm-Todo - Vue.js Todo List Application
+
+Welcome to **Storm-Todo**, a simple and efficient Todo List application built using **Vue.js**, **Pinia**, **Tailwind CSS**, and **Vite**. This project demonstrates component-based development, state management, and modern UI styling.
+
+---
+
+## 🚀 Features  
+
+- **Add & View Tasks**: Easily add and manage tasks in a list format.  
+- **State Management**: Pinia is used to manage the Todo list state for efficient updates and retrievals.  
+- **Modern UI**: Styled with Tailwind CSS for a clean, consistent, and responsive interface.  
+- **Component-Based Architecture**: Modular Vue components for better reusability and organization.  
+
+---
+
+## 🛠️ Installation & Setup  
+
+### Prerequisites  
+Make sure you have the following installed:  
+- [Node.js](https://nodejs.org/) (v14+)  
+- [Git](https://git-scm.com/)  
+
+### Steps  
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/OjBilli/Storm-Todo.git
+   cd Storm-Todo
+
